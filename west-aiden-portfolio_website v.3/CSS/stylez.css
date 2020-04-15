@@ -1,0 +1,49 @@
+html {
+	background-color: #B1D4E0;
+	color: #0C2D48;
+	font-size: 20px;
+	font-family: Optima,"Segoe",Segoe UI,Candara,Calibri,Arial,sans-serif; 
+}
+header {
+	font-size: 3rem;
+  margin-left: 40px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: .05em;
+}
+h1{
+	font-size: 2rem;
+}
+h2{
+	font-size: 1.5rem;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+
+nav li {
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  position: inline;
+}
+
+footer {
+  text-align: center;
+}
+
+
+
+/*web page layout*/
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+.column {
+  float: left;
+  width: 50%
